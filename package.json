@@ -1,0 +1,25 @@
+{
+  "name": "test-expressjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/przemyslaw-afeltowicz/test-expressjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/przemyslaw-afeltowicz/test-expressjs/issues"
+  },
+  "homepage": "https://github.com/przemyslaw-afeltowicz/test-expressjs#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0"
+  }
+}
